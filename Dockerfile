@@ -1,3 +1,5 @@
-# Tags: dev-20211221173357-b1c1fe528a0c39eeb7f44219fffa74bd9ee75501, dev
-FROM mozilla/releng-pushmsixscript:dev-20211221173357-b1c1fe528a0c39eeb7f44219fffa74bd9ee75501
-FROM mozilla/releng-pushmsixscript:dev
+# Tags: production-20220316161227-73949bc08daa18ecabbf3d6f34ec68d1e4abdf5c
+FROM mozilla/releng-pushmsixscript:production-20220316161227-73949bc08daa18ecabbf3d6f34ec68d1e4abdf5c
+
+# Tags: production
+FROM mozilla/releng-pushmsixscript:production
